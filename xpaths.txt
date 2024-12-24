@@ -1,0 +1,27 @@
+Full name type
+<input type="text" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i1 i4" aria-describedby="i2 i3" aria-disabled="false" required="" dir="auto" data-initial-dir="auto" data-initial-value="">
+//*[@id="mG61Hd"]/div[2]/div/div[2]/div[1]/div/div/div[2]/div/div[1]/div/div[1]/input
+Contact number
+//*[@id="mG61Hd"]/div[2]/div/div[2]/div[2]/div/div/div[2]/div/div[1]/div/div[1]/input 
+<input type="text" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i6 i9" aria-describedby="i7 i8" aria-disabled="false" required="" dir="auto" data-initial-dir="auto" data-initial-value="">
+Email id 
+//*[@id="mG61Hd"]/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div[1]/div/div[1]/input
+<input type="text" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i11 i14" aria-describedby="i12 i13" aria-disabled="false" required="" dir="auto" data-initial-dir="auto" data-initial-value="">
+Full address 
+//*[@id="mG61Hd"]/div[2]/div/div[2]/div[4]/div/div/div[2]/div/div[1]/div[2]/textarea
+<textarea class="KHxj8b tL9Q4c" jsname="YPqjbf" data-rows="1" tabindex="0" aria-label="Your answer" jscontroller="gZjhIf" jsaction="input:Lg5SV;ti6hGc:XMgOHc;rcuQ6b:WYd;" required="" dir="auto" data-initial-dir="auto" data-initial-value="" aria-labelledby="i16 i19" aria-describedby="i17 i18" style="height: 24px;" aria-disabled="false"></textarea>
+pin code
+<input type="text" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i21 i24" aria-describedby="i22 i23" aria-disabled="false" required="" dir="auto" data-initial-dir="auto" data-initial-value="">
+//*[@id="mG61Hd"]/div[2]/div/div[2]/div[5]/div/div/div[2]/div/div[1]/div/div[1]/input
+date of birth
+<input type="date" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i31" aria-disabled="false" max="2074-01-01" data-initial-value="1111-11-12" badinput="false" dir="ltr">
+//*[@id="mG61Hd"]/div[2]/div/div[2]/div[6]/div/div/div[2]/div/div/div[2]/div[1]/div/div[1]/input
+gender
+<input type="text" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i32 i35" aria-describedby="i33 i34" aria-disabled="false" required="" dir="auto" data-initial-dir="auto" data-initial-value="">
+//*[@id="mG61Hd"]/div[2]/div/div[2]/div[7]/div/div/div[2]/div/div[1]/div/div[1]/input
+read this verification code //*[@id="i37"]/span[1]/b //*[@id="mG61Hd"]/div[2]/div/div[2]/div[6]/div/div/div[2]/div/div/div[2]/div[1]/div/div[1]/input
+type the same in this //*[@id="mG61Hd"]/div[2]/div/div[2]/div[8]/div/div/div[2]/div/div[1]/div/div[1]/input
+<input type="text" class="whsOnd zHQkBf" jsname="YPqjbf" autocomplete="off" tabindex="0" aria-labelledby="i37 i40" aria-describedby="i38 i39" aria-disabled="false" required="" dir="auto" data-initial-dir="auto" data-initial-value="">
+submit button 
+<span class="NPEfkd RveJvd snByac">Submit</span>
+//*[@id="mG61Hd"]/div[2]/div/div[3]/div[1]/div[1]/div/span/span
