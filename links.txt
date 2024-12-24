@@ -1,0 +1,5 @@
+Due to company policies, I'm unable to showcase my project directly, but I can certainly explain how I built a flight comparison web scraper using Python and its libraries, along with JavaScript.
+
+I developed a web scraper to compare flight prices by utilizing Python's powerful libraries like BeautifulSoup and Selenium. 
+
+https://github.com/khr8/seleniumformfill.git
