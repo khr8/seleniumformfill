@@ -45,4 +45,4 @@ Feel free to submit issues or pull requests to improve this script.
 This project is licensed under the MIT License.
 ```
 
-Replace `<your-username>` and `<repo-name>` with the appropriate GitHub username and repository name.
+Replace `khr8` and `seleniumformfill` with the appropriate GitHub username and repository name.
